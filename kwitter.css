@@ -1,0 +1,9 @@
+html, body
+{
+  height: 100%;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
